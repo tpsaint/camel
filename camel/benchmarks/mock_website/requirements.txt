@@ -1,3 +1,4 @@
 Flask>=2.0
 huggingface-hub
 requests 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
